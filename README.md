@@ -1,4 +1,4 @@
-# Base64-Xor-Decrypted
+# Base64-Xor-Decrypter
  A basic Base64 to Xor Decrypt . 
 
 
